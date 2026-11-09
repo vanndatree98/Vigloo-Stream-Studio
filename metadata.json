@@ -1,0 +1,6 @@
+{
+  "name": "Vigloo Stream Studio",
+  "description": "Vertical short-drama video player and episode inspector for Vigloo series with multi-language WebVTT subtitles, HLS/MP4 streaming, and episode navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
